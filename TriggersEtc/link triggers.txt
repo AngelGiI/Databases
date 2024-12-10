@@ -1,0 +1,1 @@
+https://vettabase.com/blog/updating-triggers-online-with-mariadb-and-mysql/
